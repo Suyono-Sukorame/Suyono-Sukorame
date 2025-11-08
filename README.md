@@ -1,32 +1,32 @@
 <div align="center">
 
-# 👋 Hi there, I'm Suyono
+# 💥 Hi there, I'm Suyono
 
-🚀 Full‑Stack Developer • UI/UX Enthusiast • Performance‑Driven
+🔥 Full‑Stack Developer • UI/UX Enthusiast • Performance‑Driven
 
 I build high‑performance web applications with clean, scalable architectures and pixel‑perfect user experiences.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Suyono--Sukorame-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Suyono-Sukorame)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-suyono--sukorame-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suyono-sukorame)
-[![Email](https://img.shields.io/badge/Email-yonoabdulloh%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yonoabdulloh@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Suyono--Sukorame-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Suyono-Sukorame)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-suyono--sukorame-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suyono-sukorame)
+[![Email](https://img.shields.io/badge/Email-yonoabdulloh%40gmail.com-BB001B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yonoabdulloh@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-@suyono_dev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/suyono_dev)
 
 </div>
 
 ---
 
-## ✨ About Me
+## 🚀 About Me
 
-I’m a full‑stack developer who enjoys crafting elegant interfaces and highly performant systems. My focus areas:
-- Building clean, consistent UI with TailwindCSS and modern frameworks.
-- Designing robust backends that are secure and scalable.
-- Automating build & deployment pipelines for efficient workflows.
+I'm a full‑stack developer who enjoys crafting powerful interfaces and high-performance systems. My focus areas:
+- Building clean, consistent UI with TailwindCSS and modern frameworks
+- Designing robust backends that are secure and scalable
+- Automating build & deployment pipelines for efficient workflows
 
-> Philosophy: Great design creates joyful experiences. Great performance brings users back.
+> Philosophy: Strong design creates lasting impressions. Superior performance builds trust.
 
 ---
 
-## 🧰 Tech Stack
+## ⚡ Tech Stack
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -63,7 +63,7 @@ I’m a full‑stack developer who enjoys crafting elegant interfaces and highly
 ## 🎯 Current Focus
 
 - Microfrontend Architecture
-- Web3 & Blockchain Development
+- Web3 & Blockchain Development  
 - Advanced DevOps Practices
 - Favorite topics: React performance optimization and caching strategies
 
@@ -73,10 +73,10 @@ I’m a full‑stack developer who enjoys crafting elegant interfaces and highly
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Suyono-Sukorame&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suyono-Sukorame&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Suyono-Sukorame&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=58a6ff" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suyono-Sukorame&layout=compact&langs_count=8&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=ffffff" alt="Top Languages" />
 <br/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Suyono-Sukorame&theme=radical" alt="GitHub Streak" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Suyono-Sukorame&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 
 </div>
 
@@ -86,7 +86,7 @@ I’m a full‑stack developer who enjoys crafting elegant interfaces and highly
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Suyono-Sukorame&theme=radical&no-frame=true&margin-w=8&margin-h=8)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Suyono-Sukorame&theme=onedark&no-frame=true&margin-w=8&margin-h=8)
 
 </div>
 
@@ -95,8 +95,8 @@ I’m a full‑stack developer who enjoys crafting elegant interfaces and highly
 ## 🚀 Featured Projects
 
 - Add a few highlights here (1–2 lines each, with links):
-  - Example: Analytics Dashboard with Laravel + Vue — optimized for performance and UX.
-  - Example: Lightning‑fast landing page (100/100 Lighthouse) using Next.js + TailwindCSS.
+  - Example: Analytics Dashboard with Laravel + Vue — optimized for performance and UX
+  - Example: Lightning‑fast landing page (100/100 Lighthouse) using Next.js + TailwindCSS
 
 ---
 
@@ -113,6 +113,6 @@ I’m a full‑stack developer who enjoys crafting elegant interfaces and highly
 
 ![Visitor Count](https://profile-counter.glitch.me/Suyono-Sukorame/count.svg)
 
-Thanks for visiting! If you’re interested in collaborating, feel free to reach out. ✨
+Thanks for visiting! If you're interested in collaborating, feel free to reach out. 💪
 
 </div>
