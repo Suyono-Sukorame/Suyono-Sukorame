@@ -124,6 +124,14 @@ I'm a full-stack developer passionate about crafting powerful interfaces and hig
 
 ---
 
+## 🏅 Achievements
+
+<div align="center">
+  <img src="https://github-profile-achievements.vercel.app/?username=suyono-sukorame&theme=darkhub&column=7" alt="GitHub Achievements"/>
+</div>
+
+---
+
 ## 📈 Activity Graph
 
 <div align="center">
