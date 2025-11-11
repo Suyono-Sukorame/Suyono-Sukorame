@@ -124,13 +124,13 @@ I'm a full-stack developer passionate about crafting powerful interfaces and hig
 
 ---
 
-## 🏅 Achievements
+<!-- ## 🏅 Achievements
 
 <div align="center">
   <img src="https://github-profile-achievements.vercel.app/?username=suyono-sukorame&theme=darkhub&column=7" alt="GitHub Achievements"/>
 </div>
 
----
+--- -->
 
 ## 📈 Activity Graph
 
@@ -142,7 +142,7 @@ I'm a full-stack developer passionate about crafting powerful interfaces and hig
 
 ## 🚀 Featured Projects
 
-*   🪶 **Koperasi Flutter-Go** — Cooperative management system built with Flutter + Go. ([Repo](https://github.com/Suyono-Sukorame/koperasi-app))
+*   🪶 **Koperasi Flutter-Go** — Cooperative management system built with Flutter + Go. ([Repo](https://github.com/Suyono-Sukorame/kksa_mobile_app))
 *   📊 **Analytics Dashboard** — High-performance dashboard for business insights using Laravel + Vue. ([Demo](https://example.com))
 *   ⚡ **Next.js Lightning Page** — Landing page with 100/100 Lighthouse score. ([Repo](https://github.com/Suyono-Sukorame/nextjs-landing))
 
@@ -165,6 +165,6 @@ Connect with me for collaborations or just a friendly chat!
 
 ✨ Thanks for visiting! If you're interested in collaborating, feel free to reach out. 💪
 <br/>
-**#Flutter #FullStack #OpenSource #NextJS**
+**#Laravel #Flutter #NextJS #React #Vue #FullStack #OpenSource**
 
 </div>
