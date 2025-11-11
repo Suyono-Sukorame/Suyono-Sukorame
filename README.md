@@ -87,6 +87,16 @@ My focus areas:
 
 ---
 
+## 💡 Contribution Graph
+
+<div align="center">
+
+![Contribution Graph](https://ghchart.rshah.org/219138/Suyono-Sukorame)
+
+</div>
+
+---
+
 ## 🏆 Trophies
 
 <div align="center">
@@ -94,6 +104,13 @@ My focus areas:
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Suyono-Sukorame&theme=onedark&no-frame=true&margin-w=8&margin-h=8)
 
 </div>
+
+---
+
+## 🧩 Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
