@@ -90,7 +90,7 @@ My focus areas:
 
 <div align="center">
 
-<img src="https://metrics.lecoq.io/Suyono-Sukorame?template=classic&base=header,activity&config.timezone=Asia%2FMakassar" />
+<img src="https://metrics.lecoq.io/Suyono-Sukorame?template=classic&base=header,activity&config.timezone=Asia%2FJakarta" />
 
 </div>
 ---
