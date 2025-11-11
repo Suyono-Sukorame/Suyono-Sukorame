@@ -91,7 +91,7 @@ My focus areas:
 
 <div align="center">
 
-![Contribution Graph](https://ghchart.rshah.org/219138/Suyono-Sukorame)
+![GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=suyonoabdullah&theme=dark&background=0D1117&ring=00FFB7&fire=00FFB7&currStreakLabel=FFFFFF)
 
 </div>
 
@@ -107,10 +107,9 @@ My focus areas:
 
 ---
 
-## 🧩 Recent GitHub Activity
+## 📊 GitHub Activity Graph
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+![Suyono's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suyonoabdullah&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FFB7&line=00FFB7&point=FFFFFF)
 
 ---
 
