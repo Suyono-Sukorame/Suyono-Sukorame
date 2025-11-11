@@ -86,13 +86,12 @@ My focus areas:
 </div>
 
 ---
-## 🧩 Contribution Graph
+## 🧠 Contribution Insights
 
 <div align="center">
-
-<img src="https://metrics.lecoq.io/Suyono-Sukorame?template=classic&base=header,activity&config.timezone=Asia%2FJakarta" />
-
+<img src="https://metrics.lecoq.io/Suyono-Sukorame?template=classic&base=activity&config.timezone=Asia%2FJakarta" />
 </div>
+
 ---
 
 ## 🏆 Trophies
