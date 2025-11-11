@@ -87,6 +87,29 @@ My focus areas:
 
 ---
 
+## 🗓️ GitHub Contribution Calendar
+
+<div align="center">
+
+<!-- Kontribusi berbentuk kalender (seperti di profil GitHub) -->
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Suyono-Sukorame&theme=react-dark&hide_border=true&area=true&custom_title=GitHub%20Contribution%20Graph)
+
+</div>
+
+---
+
+## 🧩 GitHub Profile Contribution Graph
+
+<div align="center">
+
+<!-- Kontribusi versi analitik dengan style classic -->
+<img src="https://metrics.lecoq.io/Suyono-Sukorame?template=classic&base=activity&config.timezone=Asia%2FJakarta" alt="GitHub Profile Contribution Graph" />
+
+</div>
+
+
+---
+
 ## 🏆 Trophies
 
 <div align="center">
