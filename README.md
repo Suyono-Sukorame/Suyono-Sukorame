@@ -90,7 +90,7 @@ My focus areas:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suyono-Sukorame&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" alt="Suyono's GitHub Activity Graph" />
+<img src="https://metrics.lecoq.io/Suyono-Sukorame?template=classic&base=header,activity&config.timezone=Asia%2FMakassar" />
 
 </div>
 ---
